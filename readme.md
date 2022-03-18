@@ -7,7 +7,7 @@
 
 <div align="center">
   <sub>Pagina de login feita 💜  Por
-    <a href="https://github.com/Rafael-Yokoyama">Ismael Gomes</a>       
+    <a href="https://github.com/ismaelgomesdasilva">Ismael Gomes</a>       
   </sub>
 </div>
 
