@@ -11,6 +11,7 @@ a{
 .img-yoga {
   display: block;
   margin: 195px auto 122px auto;
+
 }
 
 input {
@@ -45,6 +46,7 @@ input::placeholder {
   text-align: right;
   text-decoration: none;
   color: black;
+  
 }
 button {
   display: block;
@@ -60,7 +62,13 @@ button {
   font-size: 15px;
   line-height: 18px;
   color: #ffffff;
+  cursor: pointer;
+  background-color: blue;
+  color: white;
 }
+
+  
+
 .signup{
     display: block;
     margin: 21px 0 61px 0;
